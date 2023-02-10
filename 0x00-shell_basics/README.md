@@ -12,8 +12,9 @@ deletes my first directory that is in the tmp directory
 script that changes the working directory to previous one
 # 11.Lists
 script that lists all files even hidden ones in the current, parent  and the /boot directory.
-#12.File Type
+# 12.File Type
 script that prints the file iamafile in the /tmp directory
-#13.We are symbols, and inhabit symbols
+# 13.We are symbols, and inhabit symbols
 creating a symbolic link to /bin/ls named __ls__ in the working directory
-
+# 14.Copy HTML files
+creates a script that copies all the HTML files from the current directory to the parent directory.
