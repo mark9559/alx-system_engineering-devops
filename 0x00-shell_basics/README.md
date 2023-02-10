@@ -12,3 +12,6 @@ deletes my first directory that is in the tmp directory
 script that changes the working directory to previous one
 # 11.Lists
 script that lists all files even hidden ones in the current, parent  and the /boot directory.
+#12.File Type
+script that prints the file iamafile in the /tmp directory
+
