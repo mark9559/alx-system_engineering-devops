@@ -6,3 +6,5 @@ display current contents including long formats and hiddenfiles
 moves the files from tmp to my first directory
 # 8.Bye bye Betty
 deletes the file betty
+# 9.Bye bye My first directory
+deletes my first directory that is in the tmp directory
