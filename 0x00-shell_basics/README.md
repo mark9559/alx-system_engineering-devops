@@ -10,3 +10,5 @@ deletes the file betty
 deletes my first directory that is in the tmp directory
 # 10.Back to the future
 script that changes the working directory to previous one
+# 11.Lists
+script that lists all files even hidden ones in the current, parent  and the /boot directory.
